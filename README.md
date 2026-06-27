@@ -6,20 +6,42 @@
 
 > 역량의 전문성에 따라 <span style="color: #2563EB; font-weight: bold;">상(파랑)</span> · <span style="color: #D97706; font-weight: bold;">중(노랑)</span> · <span style="color: #F87171; font-weight: bold;">하(연빨강)</span> 수준으로 분류하였습니다.
 
-### 🎨 FrontEnd
-
-<span style="color: #2563EB; font-weight: bold;">HTML</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #2563EB; font-weight: bold;">CSS</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #2563EB; font-weight: bold;">JavaScript</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #D97706; font-weight: bold;">React</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #D97706; font-weight: bold;">Flutter</span>
-
-<br>
-
-### ⚙ BackEnd
-
-<span style="color: #2563EB; font-weight: bold;">Java</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #2563EB; font-weight: bold;">SpringBoot</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #2563EB; font-weight: bold;">MyBatis</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #2563EB; font-weight: bold;">Thymeleaf</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #D97706; font-weight: bold;">Spring</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #D97706; font-weight: bold;">JSP</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #D97706; font-weight: bold;">MySQL</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #D97706; font-weight: bold;">ORACLE</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F87171; font-weight: bold;">Node.js</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F87171; font-weight: bold;">Express</span>
-
-<br>
-
-### 🧰 Tools
-
-<span style="color: #2563EB; font-weight: bold;">VS CODE</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #D97706; font-weight: bold;">Git</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #D97706; font-weight: bold;">Figma</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F87171; font-weight: bold;">Linux</span> &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F87171; font-weight: bold;">ROS2</span>
+<table>
+  <tr>
+    <td bgcolor="#f8f9fa" align="center" width="120"><strong>🎨 FrontEnd</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/HTML5-2563EB?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/JavaScript-2563EB?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/React-D97706?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Flutter-D97706?style=flat-square&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#f8f9fa" align="center"><strong>⚙ BackEnd</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Java-2563EB?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/SpringBoot-2563EB?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/MyBatis-2563EB?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Thymeleaf-2563EB?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Spring-D97706?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/JSP-D97706?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/MySQL-D97706?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/ORACLE-D97706?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Node.js-F87171?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Express-F87171?style=flat-square&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#f8f9fa" align="center"><strong>🧰 Tools</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/VS_CODE-2563EB?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Git-D97706?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Figma-D97706?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Linux-F87171?style=flat-square&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/ROS2-F87171?style=flat-square&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
