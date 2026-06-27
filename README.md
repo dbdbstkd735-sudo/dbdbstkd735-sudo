@@ -3,7 +3,7 @@
 ### A passionate Java developer
 ---
 ## 📊 GitHub Stats
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dbdbstkd735-sudo&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
 
 <br><br>
