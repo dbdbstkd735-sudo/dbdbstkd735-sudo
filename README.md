@@ -3,11 +3,6 @@
 ### A passionate Java developer
 ---
 
-## 🛠 기술 스택 & 숙련도
-## 🛠 Tech Stack
-
-## 🛠 Tech Stack
-
 > 역량의 전문성에 따라 <span style="color: #2563EB; font-weight: bold;">상</span> · <span style="color: #D97706; font-weight: bold;">중</span> · <span style="color: #DC2626; font-weight: bold;">하</span> 수준으로 분류하였습니다.
 
 ### 🎨 FrontEnd
