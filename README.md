@@ -2,6 +2,19 @@
 
 ### A passionate Java developer
 ---
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=dbdbstkd735-sudo&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dbdbstkd735-sudo&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dbdbstkd735-sudo&theme=tokyonight&bg_color=1a1b27&hide_border=false" alt="Activity Graph" />
+
+---
 ## 🛠 Tech Stack
 
 > 역량의 전문성에 따라 <span style="color: #2563EB; font-weight: bold;">상(파랑)</span> · <span style="color: #D97706; font-weight: bold;">중(노랑)</span> · <span style="color: #F87171; font-weight: bold;">하(연빨강)</span> 수준으로 분류하였습니다.
